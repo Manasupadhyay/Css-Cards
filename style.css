@@ -58,7 +58,7 @@ img{
     /* border: 2px solid springgreen; */
     border-radius: 20px;
     overflow: hidden;
-    flex: 1 1 45%;
+    flex: 1 1 100%;
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
     background-color: whitesmoke;
     
