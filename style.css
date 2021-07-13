@@ -16,6 +16,7 @@ body{
 }
 img{
     max-width: 100%;
+    height: auto;
     
 }
 .heading{
@@ -55,11 +56,11 @@ img{
 .card{
     margin: 1em;
     max-width: 300px;
-    /* width: 100%; */
+    width: 100%;
     /* border: 2px solid springgreen; */
     border-radius: 20px;
     overflow: hidden;
-    flex: 1 1 100%;
+    flex: 1 1 auto;
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
     background-color: whitesmoke;
     
@@ -77,9 +78,9 @@ img{
     
 }
 
-@media screen and (max-width: 950px) {
+/* @media screen and (max-width: 950px) {
     .card{
-        flex: 1 1 100%;
+        flex: 1 1 50%;
     }
 }
 
@@ -89,5 +90,5 @@ img{
         flex: 1 1 100%;
     }
 }
-
+ */
 
