@@ -79,7 +79,7 @@ img{
 
 @media screen and (max-width: 950px) {
     .card{
-        flex: 1 1 50%;
+        flex: 1 1 100%;
     }
 }
 
